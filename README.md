@@ -25,9 +25,7 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## <a name="Live link">🔗 Links</a>
-
-[https://i-phone15-vishalgunjalswe.vercel.app/] (https://i-phone15-vishalgunjalswe.vercel.app/)
+## <a link="https://i-phone15-vishalgunjalswe.vercel.app/" target="_blanck">🔗 Live Link : https://i-phone15-vishalgunjalswe.vercel.app/</a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
