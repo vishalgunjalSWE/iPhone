@@ -27,7 +27,7 @@
 
 ## <a name="Live link">🔗 Links</a>
 
-[here](https:iphone-vishalgunjalSWE.vercel.app)
+[https://i-phone15-vishalgunjalswe.vercel.app/] (https://i-phone15-vishalgunjalswe.vercel.app/)
 
 ## <a name="introduction">🤖 Introduction</a>
 
